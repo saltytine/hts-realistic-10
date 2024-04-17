@@ -21,6 +21,7 @@ I did notice that each teacher had an ID number.
 There were numbers for all 21 teachers.
 On the list, they were organized by the first letter of their names on the page so I figured the ID number was the order they had their page up.  
 ID=1 was probably the one who made the site. Mrs. Samantha Miller.  
+Getting ahead of myself again  
 Now we login as Zach  
 ![image](https://github.com/saltytine/hts-realistic-10/assets/156854448/1626b534-ccd6-4b70-b228-6d303fca0f60)  
 Now we have his address (this whole thing was not very smart on Zach's part)  
