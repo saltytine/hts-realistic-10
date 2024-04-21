@@ -37,7 +37,7 @@ So I played around with a bunch of stuff here.
 I tried sql injections and whatnot but it wasn't workin.  
 So I bruteforced it.  
 We know Mrs. Samantha Miller maybe perschance made the site. Irl I would probably look around her social media and whatnot to try to find possible passwords. But, she's fake so I had to go with what I knew.
-All that time was wasted though, bc it was just her username :P
+All that time was wasted though, bc it was just her username :P  
 ![image](https://github.com/saltytine/hts-realistic-10/assets/156854448/3e0d6075-22a5-4312-b62a-9cd71d1cbb5e)  
 This is pretty simple to get past, just spoof the site with a lovely lil user agent switcher.  
 ![image](https://github.com/saltytine/hts-realistic-10/assets/156854448/23cd536c-2152-4574-8779-f3cc0e8f95e9)  
