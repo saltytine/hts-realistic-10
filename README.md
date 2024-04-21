@@ -1,7 +1,7 @@
 # a silly lil writeup of hts realistic 10  
 So, this is actually my first time doing this lol. I only realized at the very end of making this writeup (I thought I just forgot)
 
-The lil blurb from our best buddy Zach Sanchez who foolishly gives a hacker his username and password
+The lil blurb from our best buddy Zach Sanchez who foolishly gives a hacker his username and password  
 ![image](https://github.com/saltytine/hts-realistic-10/assets/156854448/ccbf04e3-8ab4-40cb-b0cb-574b5249a4dd)
 
 This is the main page
